@@ -3,6 +3,11 @@
 
 @import "content.css";
 @import "menubar.css";
+
+/* index */
+@import "index.css";
+
+/* post */
 @import "layout.css";
 @import "sidebar.css";
 @import "gallery.css";
